@@ -51,7 +51,7 @@ def sendEmail(pTargetAlertRecipient, pAlertMessage ):
     logger.info('About to sent email to '+ pTargetAlertRecipient) 
 
     gmail_user = "noti.lashkar"
-    gmail_pwd = "N0tpass2" 
+    gmail_pwd = "XX" 
     FROM = "noti.lashkar@gmail.com"
     SUBJECT = "Notification from FinMonster_v1_WALL" 
 
